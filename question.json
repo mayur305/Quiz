@@ -1,0 +1,34 @@
+[
+    {
+        "question":"what is my name ?",
+        "choice1":"Mayur",
+        "choice2":"Mayor",
+        "choice3":"Muyur",
+        "choice4":"Meyur",
+        "answer":1
+    },
+    {
+        "question":"what is my surname ?",
+        "choice1":"Power",
+        "choice2":"Pawar",
+        "choice3":"Poor",
+        "choice4":"Puwar",
+        "answer":2
+    },
+    {
+        "question":"which bike I have ?",
+        "choice1":"BMW G6",
+        "choice2":"Hornet 160R",
+        "choice3":"Gixxer 770A",
+        "choice4":"KTM 125R",
+        "answer":2
+    },
+    {
+        "question":"My Hobby ?",
+        "choice1":"Cycling",
+        "choice2":"Boxing",
+        "choice3":"Outdoor Gaming",
+        "choice4":"Bike-Riding",
+        "answer":4
+    }
+]
